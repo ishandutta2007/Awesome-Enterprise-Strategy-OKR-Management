@@ -66,63 +66,63 @@ Self-hosted, transparent, and community-driven Strategy and OKR management platf
 Sorted descending by GitHub stargazer count ⭐:
 
 ### 1. [Operately](https://github.com/operately/operately) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/operately/operately?style=social&color=white)](https://github.com/operately/operately/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/operately/operately?style=social&color=white)](https://github.com/operately/operately/stargazers)  
 - 🛠️ **Stack:** Elixir / Phoenix / React / TypeScript / PostgreSQL  
 - 📜 **License:** Apache 2.0  
 - 📖 **Overview:** An open-source company operating system delivering collaborative OKR tracking, strategic goal check-ins, project management, team spaces, and document management. Deploys easily with Docker Compose and includes native AI agent integrations for Claude Code and Codex 🤖.
 - 🎯 **Best for:** Modern startups and remote teams wanting an opinionated, unmetered self-hosted workspace with no per-seat licensing fees.
 
 ### 2. [Thrive](https://github.com/get-thriving/thrive) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/get-thriving/thrive?style=social&color=white)](https://github.com/get-thriving/thrive/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/get-thriving/thrive?style=social&color=white)](https://github.com/get-thriving/thrive/stargazers)  
 - 🛠️ **Stack:** Node.js / TypeScript / React / GraphQL  
 - 📜 **License:** MIT  
 - 📖 **Overview:** A modern goals and OKR management system designed to track objectives, key results, and team alignment with clean, customizable reporting workflows ⚡.
 - 🎯 **Best for:** Engineering teams and organizations seeking an extensible TypeScript-based goal framework.
 
 ### 3. [BurningOKR](https://github.com/BurningOKR/BurningOKR) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/BurningOKR/BurningOKR?style=social&color=white)](https://github.com/BurningOKR/BurningOKR/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/BurningOKR/BurningOKR?style=social&color=white)](https://github.com/BurningOKR/BurningOKR/stargazers)  
 - 🛠️ **Stack:** Java / Spring Boot / Angular / TypeScript  
 - 📜 **License:** MIT  
 - 📖 **Overview:** A dedicated enterprise-grade open-source web application designed specifically for managing organizational OKRs across multi-department hierarchies, corporate goal cycles, and team reviews 🔥.
 - 🎯 **Best for:** Enterprises and Java-centric IT departments seeking a self-hosted, structured OKR application with LDAP/SSO enterprise readiness.
 
 ### 4. [OKR Tracker](https://github.com/oslokommune/okr-tracker) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/oslokommune/okr-tracker?style=social&color=white)](https://github.com/oslokommune/okr-tracker/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/oslokommune/okr-tracker?style=social&color=white)](https://github.com/oslokommune/okr-tracker/stargazers)  
 - 🛠️ **Stack:** Vue.js / JavaScript / Firebase  
 - 📜 **License:** MIT  
 - 📖 **Overview:** Developed by the City of Oslo (Oslo kommune), this clean front-end application tracks Objectives, Key Results, and Key Performance Indicators (KPIs) with historical progress visualization and target pacing 🏛️.
 - 🎯 **Best for:** Public sector teams, agile squads, and product organizations looking for a lightweight, serverless OKR dashboard.
 
 ### 5. [BIZOS Company OS](https://github.com/ungden/bizos-company-os) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/ungden/bizos-company-os?style=social&color=white)](https://github.com/ungden/bizos-company-os/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/ungden/bizos-company-os?style=social&color=white)](https://github.com/ungden/bizos-company-os/stargazers)  
 - 🛠️ **Stack:** Next.js 16 / TypeScript / Supabase / PostgreSQL  
 - 📜 **License:** MIT  
 - 📖 **Overview:** A complete business operating system boasting 19 distinct operational views, including OKR management, interactive KPI trees, org charts, compensation modeling, operational reporting, and forecasting 🧭.
 - 🎯 **Best for:** Founders and operators looking for an all-in-one Next.js business cockpit that natively connects OKRs to business KPIs and financials.
 
 ### 6. [Strapi OKR API](https://github.com/seanrioux/strapi-okr-api) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/seanrioux/strapi-okr-api?style=social&color=white)](https://github.com/seanrioux/strapi-okr-api/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/seanrioux/strapi-okr-api?style=social&color=white)](https://github.com/seanrioux/strapi-okr-api/stargazers)  
 - 🛠️ **Stack:** Node.js / Strapi Headless CMS  
 - 📜 **License:** MIT  
 - 📖 **Overview:** An API-first headless CMS architecture for managing, querying, and distributing Objectives and Key Results across custom enterprise dashboards, mobile apps, or internal intranets 🔌.
 - 🎯 **Best for:** Developers needing a flexible headless REST/GraphQL backend for OKRs to embed into proprietary internal tools.
 
 ### 7. [Hillfog](https://github.com/billchen198318/hillfog) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/billchen198318/hillfog?style=social&color=white)](https://github.com/billchen198318/hillfog/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/billchen198318/hillfog?style=social&color=white)](https://github.com/billchen198318/hillfog/stargazers)  
 - 🛠️ **Stack:** Java / Spring Boot / Vue.js / MySQL  
 - 📜 **License:** GPL-3.0  
 - 📖 **Overview:** An integrated enterprise management web platform combining OKRs, KPIs, Balanced Scorecards (BSC), and PDCA (Plan-Do-Check-Act) operational management workflows 🔄.
 - 🎯 **Best for:** Traditional enterprises and manufacturing organizations seeking complete alignment across OKRs, balanced scorecards, and continuous improvement cycles.
 
 ### 8. [okr2go](https://github.com/oxisto/okr2go) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/oxisto/okr2go?style=social&color=white)](https://github.com/oxisto/okr2go/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/oxisto/okr2go?style=social&color=white)](https://github.com/oxisto/okr2go/stargazers)  
 - 🛠️ **Stack:** Go / Markdown CLI  
 - 📜 **License:** Apache 2.0  
 - 📖 **Overview:** A minimalist, terminal-friendly OKR engine that reads and updates your Objectives and Key Results directly within a plain Markdown file. Zero external databases or daemons required ⌨️.
 - 🎯 **Best for:** Developers, solo hackers, and terminal lovers wanting Git-versioned, zero-friction goal tracking.
 
 ### 9. [Open OKR](https://github.com/OpenOKR/OpenOKR) 🌟
-[![GitHub stars](https://img.shields.io/github/stars/OpenOKR/OpenOKR?style=social&color=white)](https://github.com/OpenOKR/OpenOKR/stargazers)  
+[![GitHub_Stars](https://img.shields.io/github/stars/OpenOKR/OpenOKR?style=social&color=white)](https://github.com/OpenOKR/OpenOKR/stargazers)  
 - 🛠️ **Stack:** JavaScript / Node.js  
 - 📜 **License:** MIT  
 - 📖 **Overview:** An open-source web application designed for creating, organizing, and cascading team Objectives and Key Results with status updates and alignment tracking 📊.
